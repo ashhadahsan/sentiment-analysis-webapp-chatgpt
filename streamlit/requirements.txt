@@ -1,0 +1,4 @@
+pytube==12.1.2
+streamlit
+git+https://github.com/openai/whisper.git
+--extra-index-url https://download.pytorch.org/whl/cu113

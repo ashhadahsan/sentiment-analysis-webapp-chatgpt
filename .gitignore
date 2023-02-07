@@ -1,2 +1,7 @@
 
 *.pyc
+data/audio
+data/video/
+*.wav
+*.mp4
+*.pt
