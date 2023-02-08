@@ -1,0 +1,5 @@
+pytube==12.1.2
+git+https://github.com/openai/whisper.git
+--extra-index-url https://download.pytorch.org/whl/cu113
+django
+djangorestframework
